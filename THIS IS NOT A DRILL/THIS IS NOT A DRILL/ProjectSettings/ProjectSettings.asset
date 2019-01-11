@@ -611,10 +611,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a2d03ca9-ad44-4756-96f8-21c5921ade6a
+  cloudProjectId: be099978-fda1-4929-8325-e126c0fd1d4a
   framebufferDepthMemorylessMode: 0
-  projectName: THIS IS NOT A DRILL (1)
-  organizationId: kertisjones
+  projectName: THIS IS NOT A DRILL
+  organizationId: unity_ocs27ayohdc8la
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
